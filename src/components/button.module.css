@@ -1,0 +1,14 @@
+.button{
+    background-color: green;
+    border-radius: 4;
+    padding: 10px;
+    color: aliceblue;
+    margin: 7px;
+
+}
+.submitBtn{
+    background-color: brown;
+}
+.myBtn{
+    background-color: blue;
+}
